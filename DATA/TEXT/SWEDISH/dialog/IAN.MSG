@@ -1,0 +1,248 @@
+#
+# Han är ganska kort, sliten och självsäker och ser ut att vara välskött.
+#
+{100} {} {Du ser en kort, slitig man.}
+{101} {} {Vi gillar inte ditt slag i dessa delar.}
+{102} {} {Hej främling. Du ser ut som om du är ny här. Vad heter du?}
+{103} {} {Mitt namn är inte viktigt.}
+{104} {} {jag är}
+{105} {} {.}
+{106} {} {Urgh?}
+{107} {} {Nå då är du inte heller.}
+{108} {} {Bra att träffa dig. Jag är Ian.}
+{109} {} {Vad gör du här?}
+{110} {} {Jag skulle vilja veta mer om den här platsen. Kan du hjälpa?}
+{111} {} {Tyvärr, men jag har inte tid att slösa på moroner.}
+{112} {} {Jag var en vakt för navets köpmän. Men jag blev skjuten under ett slag av banditer. Jag har bott här, eftersom folket har hjälpt mig att återhämta sig. Ändå gör min kunskap om omvärlden och min erfarenhet mig användbar här. Shady Sands är mitt hem nu. Ibland kommer jag till och med att besöka Junktown eller navet för att göra handel, eftersom jag är den enda personen här som någonsin har lämnat staden.}
+{113} {} {Du ser: Ian.}
+{114} {} {Jag är ledsen att höra om din skada.}
+{115} {} {Var är det här navet och Junktown?}
+{116} {} {Kan du berätta om banditerna?}
+{117} {} {Shady Sands är en liten men självförsörjande gemenskap. Det enda problemet här är med banditerna och radskorpionerna.}
+{118} {} {Varför är radscorpionsproblemet?}
+{119} {} {Finns det många banditer?}
+{120} {} {Det finns flera. De kommer från olika grupper. De stjäl vår mat och skjuter ibland några människor. Seth organiserade vakterna för att hjälpa till att bekämpa dem.}
+{121} {} {Kan du berätta om Seth?}
+{122} {} {Det finns olika grupper? Vilka är dom?}
+{123} {} {Radscorpions är mycket farliga. De har en giftig sting i svansen, och de är väldigt snabba. Aradesh har försökt hitta ett sätt att bli av med dem. Om du känner dig modig kan du prata med Aradesh om dem.}
+{124} {} {Tack. Det har läkt upp, tack vare Razlo.}
+{125} {} {Seth är en väldigt modig fighter. Han går ibland till radscorpiongrottorna för att döda några radscorpions, men de hamnar alltid tillbaka. Det finns bara för många för honom att slåss.}
+{126} {} {Är radscorpionsna verkligen så farliga?}
+{127} {} {Vad kan jag hjälpa dig med?}
+{128} {} {Det finns tre grupper: Khans, Vipers och Jackals. De hatar ganska mycket varandra, men alla raderar Shady Sands.}
+{129} {} {Berätta mer om Shady Sands.}
+{130} {} {Han har den säkra, avslappnade ställningen hos en erfaren fighter.}
+
+# FÖRSLAG ANMÄRKNING
+# Spelarens karaktärs namn sätts in av koden mellan linjerna 131 och 132.
+{131} {} {Så}
+{132} {} {vad kan jag göra för dig?}
+{133} {} {Berätta för mig om raidersna.}
+{134} {} {Berätta om radscorpions.}
+{135} {} {Berätta om Shady Sands.}
+{136} {} {Berätta för mig om Seth.}
+{137} {} {Kan du ge mig anvisningar till navet och Junktown?}
+{138} {} {Inget, tack.}
+{139} {} {Hubben är ett stort handelscentrum långt söder om Shady Sands. Det drivs av flera olika husvagnsgrupper av köpmän: Vattenhandlarna, Crimson Caravan och Far Go Traders. Junktown är lite söder och vägar västerut. Det är mindre, men fortfarande ett bra ställe att släppa in för en drink. Det övervakas av en kollega med namnet Killian Darkwater; den lokala affärsinnehavaren, sheriffen och borgmästaren.}
+{140} {} {Tack.}
+{141} {} {Jag kanske inte är en mycket bra fighter längre, men jag mår bra för att bäst gillar dig!}
+
+# FÖRSLAG ANMÄRKNING
+# Spelarens karaktärs namn läggs in av koden mellan linjerna 142 och 143.
+{142} {} {Vad kan jag göra för dig}
+{143} {} {?}
+
+{144} {} {Hmm. Ingenting. OBS, Ian.}
+{145} {} {Du kan lämna nu.}
+{146} {} {Kan du ge mig anvisningar till navet och Junktown?}
+{147} {} {Tja, eftersom du frågar, okej. Vi ses.}
+{148} {} {Nej tack. Jag behövs här.}
+{149} {} {Kan du hjälpa mig lite? Din upplevelse skulle vara användbar.}
+{150} {} {Låt oss gå. Det blir bra att komma tillbaka till handling!}
+{151} {} {Detta är Killians, en affär. Killian är en bra man, och de har gott om lager.}
+{152} {} {Gizmo's casino. En hive av spel och underjordisk verksamhet. Noggrann - de säger att spelen är riggade.}
+{153} {} {Denna plats ger mig krypningarna.}
+{154} {} {Vad i helvete hände här?}
+{155} {} {Detta kommer bli en tuff mutter att spricka.}
+{156} {} {Hmm. Frestande erbjudande, eftersom denna plats blir tråkig. Berätta vad. Standardpriser: 100 caps, och du har en affär.}
+{157} {} {Deal.}
+{158} {} {Nej tack.}
+{159} {} Vad sägs om en bit av åtgärden, istället?}
+{160} {} {Okej, jag hjälper dig ut i utbyte mot min del av loot.}
+{161} {} {Nej, det tror jag inte. Kom tillbaka när du har några kepsar.}
+{162} {} {Detta är vapenbutiken. Det drivs av Beth. Hon är bra för vapen, men bättre för skvaller.}
+{163} {} {Jakes vapen. Höga priser, men riktigt bra vapen.}
+{164} {} {Vattenhandlarens kontor. De är Hubens stora movers och shakers, eftersom de levererar vattnet som håller på att gå.}
+{165} {} {Detta är Crimson Caravan. Jag gjorde lite arbete för dem. De gör många högrisk jobb.}
+{166} {} {Far Go Traders, drivs av Butch Harris. Han är ot-nay oo-tay ight-bray, om du fångar min mening.}
+{167} {} {Ah, nu är den maltesiska Falcon platsen att vara. Bra musik, goda drycker och bra företag.}
+{168} {} {Det är en fula son av en tik!}
+{169} {} {Du tjänar 100 erfarenheter för att övertyga Ian för att gå med i din strävan.}
+{170} {} {Hörde om några av dessa platser innan, men aldrig varit i ett. Verkar snyggt och rent ... lite för rent för min smak.}
+{171} {} {Inte att du frågade mig, men mannen måste ge dig ett litet andningsrum.}
+{172} {} {Y'know, den kvinnan kunde inte leda en tango, mycket mindre en revolution.}
+{173} {} {Vilka vapen är du skicklig med?}
+{174} {} {Jag är ett bra skott med nästan vilken som helst pistol, och jag kan också använda en maskinpistol. Jag vet också hur man hanterar en kniv.}
+
+#
+# Översättningsnota
+# Följande rad riktar sig till Katja, en kvinnlig scavenger, inte hos spelaren.
+# Ian noterar att han tycker att L.A. Boneyard var en sämre plats än
+# mutanters militära bas.
+#
+
+{175} {} {Jag trodde L.A. Boneyard var värre.}
+
+
+{200} {} {Rita ditt bästa vapen nästa gång vi går in i strid.}
+{201} {} {Sure thing.}
+{202} {} {Kan jag göra något för dig innan jag går?}
+{203} {} {Um, ja. Jag tror att vi borde hålla fast vid varandra.}
+{204} {} {Uh, nr. Tack.}
+
+#
+# Ian Tell-Me-Oms
+#
+
+{1000} {} {Vatten}
+{1001} {} {War}
+{1002} {} {Shady}
+{1003} {} {Junktown}
+{1004} {} {Hub}
+{1005} {} {anfallare}
+{1006} {} {Husvagnar}
+{1007} ​​{} {Chip}
+{1008} {} {Sands}
+{1009} {} {följare}
+{1010} {} {Cathedral}
+{1011} {} {Garl}
+{1012} {} {ledar-}
+{1013} {} {Unity}
+{1014} {} {Set}
+{1015} {} {Watershed}
+{1016} {} {Necropolis}
+{1017} {} {Hall}
+{1018} {} {Library}
+{1019} {} {Overseer}
+{1020} {} {Medic}
+{1021} {} {Healing}
+{1022} {} {Arkiv}
+{1023} {} {Vault13}
+{1024} {} {Vault 13}
+{1025} {} {Killian}
+{1026} {} {Gizmo}
+{1027} {} {Boneyard}
+{1028} {} {kasinot}
+{1029} {} {Lagra}
+{1030} {} {Deathclaw}
+{1031} {} {Exodus}
+{1032} {} {Initierar}
+{1033} {} {Paladins}
+{1034} {} {Scribes}
+{1035} {} {Barn}
+{1036} {} {Brotherhood}
+{1037} {} {Tankar}
+{1038} {} {militär}
+{1039} {} {Base}
+{1041} {} {Apocalypse}
+{1042} {} {Mutanter}
+{1043} {} {Morpheus}
+{1044} {} {Khans}
+{1045} {} {Tandi}
+{1046} {} {Alya}
+{1047} {} {Diana}
+{1048} {} {Gwen}
+{1049} {} {Petrox}
+{1050} {} {Tolya}
+{1051} {} {Booze}
+{1052} {} {Drugs}
+{1053} {} {Seth}
+{1054} {} {Aradesh}
+{1055} {} {Razlo}
+{1056} {} {Zimmerman}
+{1057} {} {Regulatorer}
+{1058} {} {Scavs}
+{1059} {} {Blades}
+{1060} {} {Nicole}
+{1061} {} {Löjtnant}
+{1062} {} {Synska}
+{1063} {} {Experiment}
+{1064} {} {Police}
+{1065} {} {Merchants}
+
+{1100} {} {Ingen aning om vad en vattenchip är. Förlåt kompis.}
+{1101} {} {Händde för hundra år sedan. I grund och botten blev en massa länder snällt antsy, och allt gick BOOM!}
+{1102} {} {En liten och lugn by. Förmodligen det mest lovande samhället i avfallet.}
+{1103} {} {En medelstor stad av skräp, övervakad av en sheriff som heter Killian. Det är bara några dagar sydväst om Shady Sands.}
+{1104} {} {Hubben är det största handelscentret i New West. Det drivs främst av en grupp som heter vattenhandlarna, men det finns också några andra handlare där. Det är en blomstrande stad, men det finns många politiska strider mellan handlarna.}
+{1105} {} {Det finns flera olika grupper av raiders där ute. Den mest organiserad gruppen heter Khans; de verkar tro att de kan erövra världen eller något.}
+{1106} {} {De flesta husvagnar kommer från navet. De reser överallt. Jag arbetade för en grupp som heter Crimson Caravan före min oändliga skada.}
+{1107} {} {Ingen aning om vad en vattenchip är. Förlåt kompis.}
+{1108} {} {En liten och lugn by. Förmodligen det mest lovande samhället i avfallet.}
+{1109} {} {Tyvärr, bud. Vet inte mycket om det.}
+{1110} {} {Tyvärr, bud. Vet inte mycket om det.}
+{1111} {} {Garls dumbass som tror att han kan ta över världen med sina krumma raiders. Sak samma.}
+{1112} {} {Ledsen, bud. Vet inte mycket om det.}
+{1113} {} {Ledsen, bud. Vet inte mycket om det.}
+{1114} {} {Ledsen, bud. Vet inte mycket om det.}
+{1115} {} {Förlåt, bud. Vet inte mycket om det.}
+{1116} {} {Är det inte den dödas mytiska stad?}
+{1117} {} {Ledsen, bud. Vet inte mycket om det.}
+{1118} {} {Tyvärr, bud. Vet inte mycket om det.}
+{1119} {} {Ledsen, bud. Vet inte mycket om det.}
+{1120} {} {Razlo är en stor läkare. Du borde se honom om du är sårad.}
+{1121} {} {Razlo gör ett bra jobb att fixa människor upp och hans junjajuice är väl värt det!}
+{1122} {} {Ledsen, bud. Vet inte mycket om det.}
+{1123} {} {Ledsen, bud. Vet inte mycket om det.}
+{1124} {} {Ledsen, bud. Vet inte mycket om det.}
+{1125} {} (Killians borgmästare i Junktown. Han driver också en affär där. Han är en anständig karl. Aldrig gjorde något för honom, men det verkar okej.}
+{1126} {} {Gizmo driver ett kasino i Junktown. Jag hör att det är riggt, though.}
+{1127} {} {Ledsen, bud. Vet inte mycket om det.}
+{1128} {} {Kasinot är Gizmos stora projekt i Junktown. Medför många turister och pengar, men problem kommer med det.}
+{1129} {} {Killian driver en bra affär i Junktown.}
+{1130} {} {Sorry, bud. Vet inte mycket om det.}
+{1131} {} {Beklagar, bud. Vet inte mycket om det.}
+{1132} {} {Tyvärr, bud. Vet inte mycket om det.}
+{1133} {} {Ledsen, bud. Vet inte mycket om det.}
+{1134} {} {Ledsen, bud. Vet inte mycket om det.}
+{1135} {} {Ja, det finns några barn i Shady Sands. Så? Ingen av dem är min.}
+{1136} {} {Ledsen, bud. Vet inte mycket om det.}
+{1137} {} {Ledsen, bud. Vet inte mycket om det.}
+{1138} {} {Sorry, bud. Vet inte mycket om det.}
+{1139} {} {Ledsen, bud. Vet inte mycket om det.}
+{1141} {} {Du vet, vi har alltid krig. Bara nästa kommer att kämpas med pinnar.}
+{1142} {} {Jag såg några konstiga saker när jag vaktade husvagnar till navet. Muterade Coyotes, mantises, Scorpions; den sorts saker.}
+{1143} {} {Sorry, bud. Vet inte mycket om det.}
+{1144} {} {De är en ledsen grupp raiders som attackerar Shady Sands och tror att de kommer att ta över världen eller något sådant skit.}
+{1145} {} {Hon är Aradeshs dotter. Hon är söt söt, men jag har någon som väntar på mig hemma.}
+{1146} {} {Ledsen, bud. Vet inte mycket om det.}
+{1147} {} {Sorry, bud. Vet inte mycket om det.}
+{1148} {} {Tyvärr, bud. Vet inte mycket om det.}
+{1149} {} {Ledsen, bud. Vet inte mycket om det.}
+{1150} {} {Sorry, bud. Vet inte mycket om det.}
+{1151} {} {Har någon öl? Jag kunde använda en drink.}
+{1152} {} {Jag använde en del Psycho en gång på en caravan raid. Det gjorde mig tvivelaktigt. Udda.}
+{1153} {} {Seth är vaktens kapten. Mellan dig och jag kunde han inte bevaka en frukt om den spikades på benet.}
+{1154} {} {Aradesh är ledare för Shady Sands. En snäll och tålmodig man, även om han är ganska looney.}
+{1155} {} {Hej, om du behöver hjälp, är Razlo mannen att se. Han är en bra doktor.}
+{1156} {} {Ledsen, bud. Vet inte mycket om det.}
+{1157} {} {Tyvärr, bud. Vet inte mycket om det.}
+{1158} {} {Ledsen, bud. Vet inte mycket om det.}
+{1159} {} {Ledsen, bud. Vet inte mycket om det.}
+{1160} {} {Sorry, bud. Vet inte mycket om det.}
+{1161} {} {Ledsen, bud. Vet inte mycket om det.}
+{1162} {} {I dunno. Jag tror att det finns något till det, ja, men det finns inte tillräckligt med bevis.}
+{1163} {} {Ledsen, bud. Vet inte mycket om det.}
+{1164} {} {Tyvärr, bud. Vet inte mycket om det.}
+{1165} {} {Vissa köpmän kommer från navet för att handla med Junktown. Det är allt jag vet.}
+
+{1999} {} {Jag har lärt mig några nya knep!}
+{2000} {} {Låt oss diskutera vår kamp taktik.}
+{2001} {} {Yeah?}
+{2010} {} {Rita ditt bästa vapen.}
+{2011} {} {Ändra din rustning.}
+{2012} {} {Föreslagna strid mot strid.}
+{2013} {} {Förhindra nära kamp mot varierad.}
+{2014} {} {Välj avstånd själv.}
+{2015} {} {Det är allt för nu.}
+{2100} {} {Säker sak, bud.}
